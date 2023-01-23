@@ -1,8 +1,12 @@
 ### Hi there 👋
-
+####<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <!-- https://github-readme-stats.vercel-app/api?username=ysacc
 
 [![Header](https://github.com/ysacc/ysacc/raw/master/profile.gif)](https://www.linkedin.com/in/ysacc-roncal-6889aa173/) -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysacc-roncal-6889aa173/)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ysacc) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samironcal@gmail.com)
 
 ##### Hi, I'm Ysacc:
 
@@ -12,10 +16,6 @@
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samironcal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysacc-roncal-6889aa173/)
-
 
 ##### Languages I use
 
@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
+</br>
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
