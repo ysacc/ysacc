@@ -1,22 +1,29 @@
-####<h1 align="center">Hi, I'm Ysacc Roncal! :stars:</h1>
-####<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1 align="center">Hi, I'm Ysacc Roncal! :stars:</h1>
+<hr>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <!-- https://github-readme-stats.vercel-app/api?username=ysacc
 
+
 [![Header](https://github.com/ysacc/ysacc/raw/master/profile.gif)](https://www.linkedin.com/in/ysacc-roncal-6889aa173/) -->
+Contact Me:
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysacc-roncal-6889aa173/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ysacc) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samironcal@gmail.com)
 
-##### Hi, I'm Ysacc:
+<hr>
+Hi, I'm Ysacc
 
+About Me:
 - 🎓studying more programming languages
 - :test_tube: Taking the Full Stack Developer bootcamp
 - 🪐 starting more projects
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
-
+<hr>
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -26,7 +33,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
-</br>
+
+
+<hr>
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -36,7 +45,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
 
-
+<hr>
 ##### Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
@@ -49,7 +58,7 @@
 <!-- <br>
 <img src="https://github-readme-stats.vercel-app/api?username=ysacc&show_icons=true" />
 <br> -->
-
+<hr>
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
@@ -59,6 +68,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<hr>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ysacc&theme=vue-dark&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
@@ -76,6 +86,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </p>
 </p><br/><br/>
 
+<hr>
+<h2 align="center">THANKS FOR YOUR VISIT !!!<h2>
 <!-- ![VisitorCount](https://profile-counter.glitch.me/ysacc/count.svg) -->
 
 
