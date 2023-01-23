@@ -10,9 +10,9 @@
 
 ##### Hi, I'm Ysacc:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- 🎓studying more programming languages
+- :test_tube: Taking the Full Stack Developer bootcamp
+- 🪐 starting more projects
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
@@ -56,8 +56,24 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ysacc&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="http://views.whatilearened.today/views/github/ysacc/views.svg"/>
+    <a href="https://www.google.com/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
+    <a href="https://github.com/ysacc/"><img src="https://img.shields.io/github/followers/ysacc?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/ysacc?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/ysacc/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:samironcal@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <a href="https://twitch.tv/ysacc"><img src="https://img.shields.io/twitch/status/ysacc?label=Status%20Twitch%20%3A"/></a>
+    <img src="https://img.shields.io/discord/595235640044552223?label=Discord%20Tech%20%3A"/>
+    <img src="https://img.shields.io/badge/Front End-React.js-42b883"/>
+    <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
+    <img src="https://img.shields.io/badge/Os-GO-a80030"/>
+  </p>
+</p><br/><br/>
 
-![VisitorCount](https://profile-counter.glitch.me/ysacc/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/ysacc/count.svg) -->
 
 
 <!--
