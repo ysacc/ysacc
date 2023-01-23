@@ -24,7 +24,7 @@ About Me:
 - :mailbox: You can reach me with the links below
 
 <hr>
-##### Languages I use
+Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -36,7 +36,7 @@ About Me:
 
 
 <hr>
-##### Some of the technologies I have worked with
+ Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -46,7 +46,7 @@ About Me:
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
 
 <hr>
-##### Some of my favorite open source projects
+ Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
@@ -59,7 +59,7 @@ About Me:
 <img src="https://github-readme-stats.vercel-app/api?username=ysacc&show_icons=true" />
 <br> -->
 <hr>
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+ Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
