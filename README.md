@@ -1,4 +1,4 @@
-### Hi there 👋
+####<h1 align="center">Hi, I'm Ysacc Roncal! :stars:</h1>
 ####<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <!-- https://github-readme-stats.vercel-app/api?username=ysacc
 
@@ -24,6 +24,8 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
 </br>
 ##### Some of the technologies I have worked with
 
@@ -32,6 +34,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
 
 
 ##### Some of my favorite open source projects
