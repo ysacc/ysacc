@@ -9,6 +9,8 @@
 
 Hi, I'm Ysacc
 
+I am a web developer with a passion for technology and creating useful and attractive applications. I've been working in web development for a few years now, specializing in HTML, CSS, and JavaScript. I love learning new skills and working on exciting projects.
+
 About Me:
 - 🎓studying more programming languages
 - :test_tube: Taking the Full Stack Developer bootcamp
