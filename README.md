@@ -25,6 +25,7 @@ Contact Me:
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ysacc) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samironcal@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-0ce8bc?style=flat&logo=Portfolio&logoColor=white)](https://drive.google.com/file/d/1vaDuwGfktr7lUT7PUi_RagNnZO8NKu2Z/view?usp=sharing)
 
 <hr>
 Languages I use
