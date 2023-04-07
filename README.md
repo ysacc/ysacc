@@ -25,7 +25,7 @@ Contact Me:
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ysacc) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samironcal@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-0ce8bc?style=flat&logo=Portfolio&logoColor=white)](https://drive.google.com/file/d/1vaDuwGfktr7lUT7PUi_RagNnZO8NKu2Z/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-0ce8bc?style=flat&logo=Portfolio&logoColor=white)](https://drive.google.com/file/d/1z9Ewe9R_evpD9GgFih6wGETmYMZVP2_z/view?usp=share_link)
 
 <hr>
 Languages I use
@@ -35,9 +35,10 @@ Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 
 <hr>
@@ -47,8 +48,7 @@ Languages I use
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
+![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=AWS&logoColor=61DAFB)
 ![WordPress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=wordpress&logoColor=0769AD)
 ![Shopify](https://img.shields.io/badge/-Shopify-222222?style=flat&logo=shopify&logoColor=0769AD)
