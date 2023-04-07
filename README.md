@@ -91,6 +91,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
     <img src="https://img.shields.io/badge/Front End-React.js-42b883"/>
     <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
     <img src="https://img.shields.io/badge/Os-GO-a80030"/>
+    <img src="https://img.shields.io/badge/Movil-Flutter-f55247"/>
+    <img src="https://img.shields.io/badge/DB-Postgres-42b883"/>
+    <img src="https://img.shields.io/badge/Cloud-AWS-a80030"/>
   </p>
 </p><br/><br/>
 
