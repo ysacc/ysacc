@@ -37,7 +37,7 @@ Languages I use
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
-![Java](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 
 
 <hr>
@@ -49,9 +49,9 @@ Languages I use
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=Redux&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Shopify](https://img.shields.io/badge/-Shopify-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=AWS&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=wordpress&logoColor=0769AD)
+![Shopify](https://img.shields.io/badge/-Shopify-222222?style=flat&logo=shopify&logoColor=0769AD)
 
 <hr>
  Some of my favorite open source projects
